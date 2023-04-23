@@ -1,0 +1,42 @@
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Transkript Uygulaması.exe.config
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Transkript Uygulaması.exe
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Transkript Uygulaması.pdb
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript Uygulaması.csproj.AssemblyReference.cache
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript_Uygulaması.Form1.resources
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript_Uygulaması.Properties.Resources.resources
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript Uygulaması.csproj.GenerateResource.cache
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript Uygulaması.exe
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript Uygulaması.pdb
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Npgsql.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Buffers.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Memory.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Text.Json.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Threading.Channels.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.ValueTuple.dll
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\Npgsql.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Buffers.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Memory.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Text.Json.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Threading.Channels.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\bin\Debug\System.ValueTuple.xml
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript Uygulaması.csproj.CopyComplete
+C:\Users\ziyab\Projects\C# Projects\Transkript Uygulaması\Transkript Uygulaması\obj\Debug\Transkript_Uygulaması.Form2.resources
